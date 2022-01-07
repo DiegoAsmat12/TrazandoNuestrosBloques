@@ -18,7 +18,7 @@
     vertical-align: top;
 }
 .main {
-    margin: 10px 0 10px 20px;
+    margin: 10px 0px 10px 20px;
     padding-right: 25px;
     height: 400px;
     width: 700px;
@@ -31,7 +31,7 @@
     width: 210px;
     background-color: yellow;
     display: inline-block;
-    margin: 10px 0 10px 10px;
+    margin: 10px 0px 10px 10px;
 }
 #advertisement {
     margin: 10px;
